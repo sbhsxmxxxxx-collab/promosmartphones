@@ -81,7 +81,7 @@ const PRODUCTS = {
   76: { name: 'MacBook Neo · 512 Go',              price: 559  },
   77: { name: 'MacBook Pro M5 · 1 To',             price: 1429 },
   78: { name: 'MacBook Air 13" (2026) · 512 Go',   price: 909  },
-  79: { name: 'AirPods Pro 2',                     price: 49   },
+  79: { name: 'AirPods Pro 2',                     price: 139  },
   80: { name: 'AirPods Max',                       price: 249  },
   81: { name: 'Apple Watch Ultra 2',                price: 519  },
   82: { name: 'Apple Watch Ultra 3',                price: 589  },
